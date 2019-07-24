@@ -12,8 +12,8 @@ print('%d unique words found' % vocab_size)
 # Assign indices to each word.
 word_to_idx = { w: i for i, w in enumerate(vocab) }
 idx_to_word = { i: w for i, w in enumerate(vocab) }
-print(word_to_idx['good'])
-print(idx_to_word[0])
+# print(word_to_idx['good'])
+# print(idx_to_word[0])
 
 def createInputs(text):
   '''
