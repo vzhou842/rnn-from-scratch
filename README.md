@@ -1,5 +1,7 @@
 # A Recurrent Neural Network (RNN) From Scratch
 
+This was written for my [Introduction to Recurrent Neural Networks](https://victorzhou.com/blog/intro-to-rnns/).
+
 ## Usage
 
 Install dependencies:
